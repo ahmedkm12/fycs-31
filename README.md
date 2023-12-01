@@ -1,9 +1,12 @@
 # fycs-31
-a=int(input("enter any number"))
+<html>
+<head>
+open source 
+</head>
+<body>
+open source is free and open sorce
 <br>
-b=int(input("enter any number"))
+we can freely access the open source
 <br>
-c=a+b
-<br>
-print(c)
-<br>
+</body>
+</html>
